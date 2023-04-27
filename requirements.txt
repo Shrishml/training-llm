@@ -1,0 +1,9 @@
+numpy
+accelerate>=0.16.0,<1
+click>=8.0.4,<9
+datasets>=2.10.0,<3
+deepspeed>=0.8.3,<0.9
+transformers[torch]>=4.28.1,<5
+torch>=1.13.1,<2
+torchvision==0.14.1
+tensorboardX==2.6
